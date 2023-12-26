@@ -6,8 +6,8 @@
 }
 .array-bar{
     display: inline-block;
-    width : 2px;
-    margin : 0 1px;
+    width : 10px;
+    margin : 0 2px;
     background-color: blueviolet;
     
 }
