@@ -1,0 +1,19 @@
+.array-container{
+    position: absolute;
+    margin : 10px auto;
+    margin-left:auto;
+    margin-right: auto;
+}
+.array-bar{
+    display: inline-block;
+    width : 10px;
+    margin : 0 2px;
+    background-color: blueviolet;
+    
+}
+.main-button{
+    margin : 5px 10px;
+    background-color: pink;
+    border: solid pink 1px;
+    border-radius: 2.5px;
+}
