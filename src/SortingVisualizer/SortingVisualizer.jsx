@@ -18,7 +18,7 @@ const SECONDARY_COLOR = '#7B2869';
 export default class SortingVisualizer extends React.Component {
   constructor(props) {
     super(props);
-
+/*hello*/
     this.state = {
       array: [],
     };
